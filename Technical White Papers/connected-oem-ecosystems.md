@@ -254,16 +254,16 @@ For OEMs, the opportunity is not simply to digitize products. It is to reframe t
 
 1. **How is Data-as-a-Service different from basic reporting?**
    
-DaaS packages data into repeatable, consumable products such as APIs, health scores, forecasts, and benchmark insights that customers or partners can use operationally or commercially.
+    DaaS packages data into repeatable, consumable products such as APIs, health scores, forecasts, and benchmark insights that customers or partners can use operationally or commercially.
 
 1. **Why is edge computing important in OEM ecosystems?**
 
-Edge computing supports local decision-making, lower latency, reduced bandwidth use, and more resilient operation when cloud connectivity is limited or intermittent.
+    Edge computing supports local decision-making, lower latency, reduced bandwidth use, and more resilient operation when cloud connectivity is limited or intermittent.
 
 1. **What is the fastest path to monetization?**
 
-For many OEMs, subscription-based monitoring, predictive maintenance, and remote diagnostics are the most practical entry points because they solve immediate customer pain points and build recurring revenue quickly.
+    For many OEMs, subscription-based monitoring, predictive maintenance, and remote diagnostics are the most practical entry points because they solve immediate customer pain points and build recurring revenue quickly.
 
 1. **Can connected ecosystems work with legacy equipment?**
 
-Yes. Many OEMs begin with retrofit sensors, telematics modules, protocol gateways, and external monitoring kits to connect parts of the installed base that were not originally designed for digital services.
+    Yes. Many OEMs begin with retrofit sensors, telematics modules, protocol gateways, and external monitoring kits to connect parts of the installed base that were not originally designed for digital services.
