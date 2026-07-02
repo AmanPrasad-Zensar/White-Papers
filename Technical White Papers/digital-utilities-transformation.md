@@ -1,6 +1,6 @@
 ---
 type: White Paper
-title: Digital Utilities Transformation: AI, IoT, and Sustainability in Oil, Gas, Power & Water
+title: Digital Utilities Transformation:AI, IoT, and Sustainability in Oil, Gas, Power & Water
 description: This white paper outlines how AI, IoT, edge computing, and sustainability analytics enable oil, gas, power, and water operators to shift from reactive, siloed operations to predictive, data-driven performance — improving asset reliability, reducing costs, and meeting emissions and compliance goals.
 timestamp: 2026-07-02:16:23 last-modified time
 Author: Aman Samuel Prasad
