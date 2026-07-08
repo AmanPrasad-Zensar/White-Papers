@@ -267,3 +267,10 @@ For OEMs, the opportunity is not simply to digitize products. It is to reframe t
 1. **Can connected ecosystems work with legacy equipment?**
 
     Yes. Many OEMs begin with retrofit sensors, telematics modules, protocol gateways, and external monitoring kits to connect parts of the installed base that were not originally designed for digital services.
+
+    ### References
+
+    1. McKinsey & Company – [IoT value set to accelerate through 2030: Where and how to capture it.](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/iot-value-set-to-accelerate-through-2030-where-and-how-to-capture-it#/)
+    2. McKinsey & Company – [New demand, new markets: What edge computing means for hardware companies.](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/new-demand-new-markets-what-edge-computing-means-for-hardware-companies)
+    3. Harward Business Review – [How Smart, Connected Products Are Transforming Companies.](https://hbr.org/2015/10/how-smart-connected-products-are-transforming-companies)
+    4. International Energy Agency – [Digitalisation and Energy.](https://www.iea.org/reports/digitalisation-and-energy)
