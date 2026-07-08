@@ -255,6 +255,6 @@ The strongest differentiator is the solution feature set. Continuous monitoring 
 ### References
 
 1. International Energy Agency (IEA) – [Digitalisation and Energy](https://www.iea.org/reports/digitalisation-and-energy)
-2. McKinsey & Company –[The digital utility: New opportunities and challenges](https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-digital-utility-new-opportunities-and-challenges)
-3. International Energy Agency (IEA) –[World Energy Outlook 2023](https://www.iea.org/reports/world-energy-outlook-2023)
-4. International Energy Agency (IEA) –[Electricity Grids and Secure Energy Transitions](https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions)
+2. McKinsey & Company – [The digital utility: New opportunities and challenges](https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-digital-utility-new-opportunities-and-challenges)
+3. International Energy Agency (IEA) – [World Energy Outlook 2023](https://www.iea.org/reports/world-energy-outlook-2023)
+4. International Energy Agency (IEA) – [Electricity Grids and Secure Energy Transitions](https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions)
