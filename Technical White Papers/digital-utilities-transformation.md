@@ -251,7 +251,3 @@ The strongest differentiator is the solution feature set. Continuous monitoring 
     Start with 2 or 3 high-value use cases that have clear business impact, such as predictive maintenance for critical assets, leak detection, outage prediction, pump or compressor optimization, or emissions monitoring.
 
 ---
-
-## References
-
-- [Connected OEM Ecosystems: Monetizing IoT, Edge, and Data-as-a-Service Models](https://zensar-tech-writing.atlassian.net/wiki/spaces/Technology/pages/7667713/Connected+OEM+Ecosystems+Monetizing+IoT+Edge+and+Data-as-a-Service+Models)
